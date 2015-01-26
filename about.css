@@ -13,9 +13,7 @@ html,body {
 }
 
 .linkclass {
-    position: relative;
-    top: 40%;
-    transform: translateY(-70%);
+
     
     width: 50%;
     margin: 0 auto;
