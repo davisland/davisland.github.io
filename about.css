@@ -17,6 +17,11 @@ html,body {
     margin: 0 auto;
 }
 
+.sampleclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
 .cvclass {
     width: 50%;
     margin: 0 auto;
