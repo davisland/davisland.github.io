@@ -4,6 +4,8 @@
 @charset "utf-8";
 
 
+*{ text-transform: lowercase; }
+
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
