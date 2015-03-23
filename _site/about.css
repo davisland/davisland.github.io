@@ -1,0 +1,32 @@
+html,body {
+    height: 100%;
+    font-family: Helvetica, sans-serif;
+}
+
+.aboutclass {
+    position: relative;
+    top: 40%;
+    transform: translateY(-70%);
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.linkclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.sampleclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.cvclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+a {
+    color: black;
+}
