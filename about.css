@@ -6,7 +6,6 @@ html,body {
 .title {
     font-kerning:none;
     font-weight: bold;
-    letter-spacing: -8px;
     cursor:default;
     height: 100%;
     width:100%;
@@ -23,6 +22,7 @@ html,body {
 .title-block {
     width:100%;
     line-height: .8;
+    letter-spacing: -8px;
     margin-top: 20px;
     margin-left: -10px;
     font-size: 9em;
@@ -32,7 +32,7 @@ html,body {
     width:100%;
     line-height: .8;
     margin-left: -10px;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .aboutclass {
