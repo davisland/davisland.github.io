@@ -31,6 +31,7 @@ html,body {
 .sub-title {
     width:100%;
     line-height: .8;
+    letter-spacing: -2px;
     margin-left: -10px;
     font-size: 3em;
 }
