@@ -56,6 +56,11 @@ html,body {
     margin: 0 auto;
 }
 
+.vid {
+    width: 50%;
+    margin: 0 auto;
+}
+
 .cvclass {
     width: 50%;
     margin: 0 auto;
