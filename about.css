@@ -56,7 +56,7 @@ html,body {
     margin: 0 auto;
 }
 
-.vid {
+#inner {
     display: inline-block;
 }
 
