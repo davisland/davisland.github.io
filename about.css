@@ -66,6 +66,12 @@ html,body {
     margin: 0 auto;
 }
 
+audio { 
+    width: 560px; 
+    display: table; 
+    margin: 0 auto; 
+}
+
 a {
     color: black;
 }
