@@ -8,5 +8,5 @@ length: 7711266
 descirption: I talk with some members of the Barnstable County Amateur Radio Club about HAM radio.
 ---
 
-I talk with some members of the Barnstable County Amateur Radio Club about HAM radio.
+I talk with some members of the Barnstable County Amateur Radio Club about HAM radio
 http://davisland.info
