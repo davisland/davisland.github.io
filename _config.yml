@@ -3,7 +3,7 @@ title: davis land audio blog
 email: dland95@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   an audio blog by davis land. it is neat.
-baseurl: "/davislandaudioblog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://davisland.info" # the base hostname & protocol for your site
 twitter_username: davis_land
 
