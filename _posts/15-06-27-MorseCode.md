@@ -1,7 +1,7 @@
 ---
 title: Morse Code
 layout: post
-permalink: /morsecode/
+permalink: /davislandaudioblog/morsecode/
 profile: morsecode
 enclosure: http://archive.org/download/MorseCodeMixdown/Morse%20Code_mixdown.mp3
 length: 7711266
