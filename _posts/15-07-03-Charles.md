@@ -1,5 +1,5 @@
 ---
-title: Charles
+title: charles
 layout: post
 permalink: /blog/charles/
 enclosure: http://archive.org/download/CharlesMixdown/Charles_mixdown.mp3

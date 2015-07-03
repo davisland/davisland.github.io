@@ -1,5 +1,5 @@
 ---
-title: Morse Code
+title: morse code
 layout: post
 permalink: /blog/morsecode/
 enclosure: http://archive.org/download/MorseCodeMixdown/Morse%20Code_mixdown.mp3
