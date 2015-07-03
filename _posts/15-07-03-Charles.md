@@ -7,4 +7,4 @@ length: 10797427
 description: Talking with charles, an activist, writer, and musician
 ---
 
-<a href="http://archive.org/download/CharlesMixdown/Charles_mixdown.mp3">Talking with charles, an activist, writer, and musician</a>
+<a href="http://archive.org/download/CharlesMixdown/Charles_mixdown.mp3">Talking with Charles, an activist, writer, and musician</a>
