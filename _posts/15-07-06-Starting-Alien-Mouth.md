@@ -13,7 +13,7 @@ After seven issues (this seems like so few in retrospect, but then again that's 
   
 And then I got restless.  
   
-I messaged James and said we should change Mostly Water, do away with the paragraph long name (the title I suggested at the time was W A T E R), move to online distribution (I've long been in love with [Bear Parade](http://bearparade.com) and wanted to copy everything Gene Morgan had done with that), and do a quarterly print edition. We realized this wasn't an evolution for Mostly Water, it was a whole new thing.  
+I messaged James and said we should change Mostly Water, do away with the paragraph long name (the title I suggested at the time was "W A T E R"), move to online distribution (I've long been in love with [Bear Parade](http://bearparade.com) and wanted to copy everything Gene Morgan had done with that), and do a quarterly print edition. We realized this wasn't an evolution for Mostly Water, it was a whole new thing.  
   
 Mostly Water was an "imprint" (and I use that term so lightly that it should barely even appear on the page) of the "press" (again lightly) we started under the name Alien Mouth (we put out my chapbook, and a mini-chap by [William James](http://www.williamjamespoetry.com/), I should also mention that the name was James's idea). We chose to make it all just one thing. And so Alien Mout (the journal) was born.  
   
