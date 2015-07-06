@@ -7,9 +7,9 @@ description: Some movies I've watched this summer.
 <p>Here are some movies I've watched this summer.</p>
 Brick (2006)  
 Se7en (1995)  
-Citizenfour (2014)  
+Citizenfour (2014)    
 Prisoners (2013)  
-Colateral (2004)
+Colateral (2004)  
 The Science of Sleep (2006)  
 Nightcrawler (2014)  
 Good Vibrations (2012)
