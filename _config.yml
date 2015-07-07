@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://davisland.info" # the base hostname & protocol for your site
 twitter_username: davis_land
+itunes_link: http://apple.co/1RWDqjU
 
 # Build settings
 markdown: kramdown
