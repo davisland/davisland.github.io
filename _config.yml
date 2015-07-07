@@ -2,7 +2,7 @@
 title: blog thing
 email: dland95@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  a blog by davis land. it is neat. you should <a href="http://t.co/XHrGGpP0qB"> subscribe on itunes</a>
+  a blog by davis land. it is neat.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://davisland.info" # the base hostname & protocol for your site
 twitter_username: davis_land
