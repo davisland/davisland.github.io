@@ -39,7 +39,7 @@ html,body {
 
 .aboutclass {
     position: relative;
-    top: 40%;
+    top: 25%;
     transform: translateY(-70%);
     
     width: 50%;
