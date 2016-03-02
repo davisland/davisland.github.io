@@ -3,7 +3,7 @@
 html,body {
     height: 100%;
     font-family: 'Inconsolata', 'Courier New', sans-serif;
-    color: #3c5a46;
+    color: #304036;
     background: #649b78;
 }
 
@@ -77,5 +77,5 @@ audio {
 }
 
 a {
-    color: #3c5a46;
+    color: #304036;
 }
