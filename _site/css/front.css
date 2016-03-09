@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
+
+html,body {
+    height: 100%;
+    font-family: 'Inconsolata', 'Courier New', sans-serif;
+    color: #304036;
+    background: #649b78;
+}
+
+.title {
+    font-kerning:none;
+    font-weight: bold;
+    cursor:default;
+    height: 100%;
+    width:100%;
+    text-align:right;
+    -webkit-user-select: none; /* Chrome/Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+
+    /* Rules below not implemented in browsers yet */
+    -o-user-select: none;
+    user-select: none;
+}
+
+.title-block {
+    width:100%;
+    line-height: .8;
+    letter-spacing: -8px;
+    margin-top: 20px;
+    margin-left: -10px;
+    font-size: 9em;
+}
+
+.sub-title {
+    width:100%;
+    line-height: .8;
+    letter-spacing: -2px;
+    margin-left: -10px;
+    font-size: 3em;
+}
+
+.aboutclass {
+    position: relative;
+    top: 50%;
+    transform: translateY(-70%);
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.linkclass {
+    top: 25%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.sampleclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#inner {
+    display: table;
+    margin: 0 auto;
+}
+
+.cvclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+audio { 
+    width: 560px; 
+    display: table; 
+    margin: 0 auto; 
+}
+
+a {
+    color: #304036;
+}
