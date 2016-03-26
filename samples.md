@@ -36,7 +36,7 @@ permalink: /samples/
     <p>America Abroad - Ivory</p> 
     <p>Tape sync. (tape appears at 1:12 and throughout)</p>
     <div align="center">      
-            <iframe frameborder="0"  src="http://www.pri.org/node/82497/embedded" height="75" width="600"></iframe>
+            <iframe frameborder="0"  src="http://www.pri.org/node/82497/embedded" height="75" width="100%"></iframe>
             <br>
             <a href="http://www.pri.org/stories/2015-07-24/china-s-promised-phase-out-ivory-sales-good-news-wildlife">Click here to read the story on PRI.</a>
         </div>
