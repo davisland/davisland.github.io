@@ -8,8 +8,12 @@ html,body {
 }
 
 h1 {
-  font-style: italic;
   font-size: 1.2em;
+  display: inline;
+}
+
+h2 {
+  font-size: .8em;
 }
 
 ul {
