@@ -38,7 +38,7 @@ permalink: /samples/
     </br>
     </br>
     </br>
-    <p>America Abroad - Ivory</p> 
+    <p>Ivory - America Abroad</p> 
     <p>Tape sync. (tape appears at 1:12 and throughout)</p>
     <div align="center">      
             <iframe frameborder="0"  src="http://www.pri.org/node/82497/embedded" height="75" width="100%"></iframe>
