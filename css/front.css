@@ -40,6 +40,12 @@ html,body {
     font-size: 3em;
 }
 
+.content {
+    padding-top: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+
 .aboutclass {
     top: 25%;
     width: 50%;
