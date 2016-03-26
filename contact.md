@@ -1,6 +1,7 @@
 ---
 layout: default
 title: contact
+permalink: /contact/
 ---
 Twitter :: [@davis_land](https://twitter.com/davis_land)
 

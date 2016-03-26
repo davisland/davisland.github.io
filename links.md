@@ -1,6 +1,7 @@
 ---
 layout: default
 title: links
+permalink: /links/
 ---
 Here are some things I&#39;ve worked on:
 
