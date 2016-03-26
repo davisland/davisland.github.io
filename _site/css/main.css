@@ -7,6 +7,16 @@ html,body {
     background: #649b78;
 }
 
+h1 {
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
 .content {
     padding-top: 50px;
     padding-bottom: 50px;
