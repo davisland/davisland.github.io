@@ -13,9 +13,11 @@ permalink: /samples/
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251042516&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
+    </br>
     <p>All Things Considered, Morning Edition, WCAI - HAM Radio</p>
     <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213690758&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </br>
     </br>
     </br>
     <p>Sonic ID Series, WCAI - Bees</p>
@@ -23,14 +25,17 @@ permalink: /samples/
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231615667&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
+    </br>
     <p>Local Food Report, WCAI - More Than Honey</p>
     <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242612429&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
+    </br>
     <p>Darkode - Radiolab</p>
     <p>Tape sync. (All audio of Inna Simone)</p>
     <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/radiolab/#file=%2Faudio%2Fxspf%2F532787%2F"></iframe>
+    </br>
     </br>
     </br>
     <p>America Abroad - Ivory</p> 
@@ -44,22 +49,27 @@ permalink: /samples/
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213690415&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
+    </br>
     <p><b>Video:</b></p>
     <p>Corusco - Burn Out Loud Live Music Video</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/530feGQsnkA" frameborder="0" allowfullscreen></iframe>
     <br>
     <br>
+    </br>
     <p>Texas A&amp;M Writing Center - Black Box Writing Residency Promo</p>
      <blockquote class="twitter-video" lang="en"><p lang="en" dir="ltr">Develop your creative writing &amp; performance! Apply to the Black Box Writers Residency: <a href="https://t.co/Vbh3GGaMfb">https://t.co/Vbh3GGaMfb</a> <a href="https://twitter.com/hashtag/TAMU?src=hash">#TAMU</a> <a href="https://t.co/SBAz8TF0ky">pic.twitter.com/SBAz8TF0ky</a></p>&mdash; TAMU Writing Center (@tamuwc) <a href="https://twitter.com/tamuwc/status/661202352725037056">November 2, 2015</a></blockquote>
      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
      </br>
-     </br>    
+     </br> 
+     </br>   
     <p>Texas A&amp;M Writing Center - Aggie Voices Promo</p>
     <blockquote class="twitter-video" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TAMU?src=hash">#TAMU</a>: Submit to our Aggie Voices contest by Feb. 2nd. Win a $100 Amazon giftcard <a href="https://t.co/Qxr68NKDC5">https://t.co/Qxr68NKDC5</a> <a href="https://twitter.com/hashtag/yesyoucan?src=hash">#yesyoucan</a> <a href="https://t.co/uLK8bCxZ6a">pic.twitter.com/uLK8bCxZ6a</a></p>&mdash; TAMU Writing Center (@tamuwc) <a href="https://twitter.com/tamuwc/status/692788496507863041">January 28, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
     </br>
     </br>
+    </br>
     <p>Texas A&amp;M Writing Center - National Novel Writing Month Promo</p>
     <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/vyveeacR47o" frameborder="0" allowfullscreen></iframe>
+    </br>
     </br>
     </br>
     <p>Write About Now Poetry - Channel Intro</p>
