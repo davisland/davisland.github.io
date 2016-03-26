@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
+
+html,body {
+    height: 100%;
+    font-family: 'Inconsolata', 'Courier New', sans-serif;
+    color: #304036;
+    background: #649b78;
+}
+
+.content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.home {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50%;
+  margin: 0 auto;
+}
+
+audio { 
+    width: 560px; 
+    display: table; 
+    margin: 0 auto; 
+}
+
+a {
+    color: #304036;
+}

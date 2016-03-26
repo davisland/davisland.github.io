@@ -1,0 +1,7 @@
+title: davis land internet zone
+email: contact@davisland.info
+url: "http://davisland.info" # the base hostname & protocol for your site
+twitter_username: davis_land
+
+# Build settings
+markdown: kramdown
