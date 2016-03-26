@@ -9,21 +9,37 @@ permalink: /samples/
 <div align="center">
     <p><b>Audio:</b></p>
     <p>Write Right, TAMU Writing Center - Don&#39;t Fear the Blank Page</p>
+    <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251042516&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
     <p>All Things Considered, Morning Edition, WCAI - HAM Radio</p>
+    <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213690758&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
     <p>Sonic ID Series, WCAI - Bees</p>
+    <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231615667&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
     <p>Local Food Report, WCAI - More Than Honey</p>
+    <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242612429&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     </br>
+    <p>Darkode - Radiolab</p>
+    <p>Tape sync. (All audio of Inna Simone)</p>
+    <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/radiolab/#file=%2Faudio%2Fxspf%2F532787%2F"></iframe>
+    </br>
+    </br>
+    <p>America Abroad - Ivory</p> 
+    <p>Tape sync. (tape appears at 1:12 and throughout)</p>
+    <div align="center">      
+            <iframe frameborder="0"  src="http://www.pri.org/node/82497/embedded" height="75" width="100%"></iframe>
+            <br>
+            <a href="http://www.pri.org/stories/2015-07-24/china-s-promised-phase-out-ivory-sales-good-news-wildlife">Click here to read the story on PRI.</a>
+        </div>
     <p>Write About Now Poetry Podcast - featuring Arati Warrier</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213690415&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
