@@ -14,7 +14,7 @@ layout: null
         <itunes:name>Davis Land</itunes:name>
         <itunes:email>dland95@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://writerightpodcast.github.io/podcast_art.png"/>
+    <itunes:image href="http://davisland.info/podcast_art.png"/>
     <itunes:category text="Arts" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:copyright text="Davis Land" />
