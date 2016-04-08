@@ -13,6 +13,4 @@ permalink: /blog/
 			{% endfor %}
 </ul>
 
-<br>
-
 <p>subscribe <a href="https://itunes.apple.com/us/podcast/audio-blog/id1014815356">via iTunes</a> for audio</p>
