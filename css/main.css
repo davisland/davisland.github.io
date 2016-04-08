@@ -68,4 +68,10 @@ a {
     max-width: 29rem;
   }
 
+  audio {
+    max-width: 50%;
+    display: table;
+    margin: 0 auto;
+  }
+
 }
