@@ -36,8 +36,9 @@ h2 {
 }
 
 .next-prev {
-  display:inline-block;
-  width: 50%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .float-left { float: left; }
@@ -51,4 +52,20 @@ audio {
 
 a {
     color: #304036;
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    position: static;
+    margin: auto;
+    max-width: 21rem;
+  }
+
+  .content {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 0 0;
+    max-width: 29rem;
+  }
+
 }
