@@ -36,6 +36,9 @@ ul {
   margin: 0 auto;
 }
 
+.float-left { float: left; }
+.float-right { float: right; }
+
 audio { 
     width: 560px; 
     display: table; 
