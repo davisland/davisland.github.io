@@ -16,6 +16,11 @@ h2 {
   font-size: .8em;
 }
 
+.post-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
 .content {
     padding-top: 50px;
     padding-bottom: 50px;
