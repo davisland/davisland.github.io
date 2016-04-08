@@ -15,4 +15,4 @@ permalink: /blog/
 
 <br>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via iTunes</a></p>
+<p class="rss-subscribe">subscribe <a href="https://itunes.apple.com/us/podcast/audio-blog/id1014815356">via iTunes</a> for audio</p>

@@ -6,10 +6,13 @@ layout: default
 
 {{ content }}
 
-<br>
-<audio controls>
-	 <source src="{{ page.enclosure }}" type="audio/mpeg">
-</audio>
+{% if page.categories contains 'podcast' %}
+	<br>
+	<audio controls>
+		<source src="{{ page.enclosure }}" type="audio/mpeg">
+	</audio>
+{% endif %}
+
 <br><br>
 
 {% if page.previous.url %}
