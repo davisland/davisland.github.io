@@ -36,6 +36,7 @@ h2 {
 }
 
 .next-prev {
+  display:inline-block;
   width: 50%;
 }
 
