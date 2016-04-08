@@ -13,10 +13,11 @@ layout: default
 	</audio>
 {% endif %}
 <br><br>
-
-{% if page.previous.url %}
-    <a class="float-left" href="{{page.previous.url}}">&laquo; previous</a>
-{% endif %}
-{% if page.next.url %}
-    <a class="float-right" href="{{page.next.url}}">next &raquo;</a>
-{% endif %}
+<div>
+	{% if page.previous.url %}
+	    <a class="float-left" href="{{page.previous.url}}">&laquo; previous</a>
+	{% endif %}
+	{% if page.next.url %}
+	    <a class="float-right" href="{{page.next.url}}">next &raquo;</a>
+	{% endif %}
+</div>
