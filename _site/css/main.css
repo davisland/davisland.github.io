@@ -16,8 +16,7 @@ h2 {
   font-size: .8em;
 }
 
-ul {
-  list-style-type: none;
+.post-list {
   padding-left: 0px;
 }
 
@@ -36,6 +35,9 @@ ul {
   margin: 0 auto;
 }
 
+.float-left { float: left; }
+.float-right { float: right; }
+
 audio { 
     width: 560px; 
     display: table; 
@@ -44,4 +46,26 @@ audio {
 
 a {
     color: #304036;
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    position: static;
+    margin: auto;
+    max-width: 21rem;
+  }
+
+  .content {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 0 0;
+    max-width: 29rem;
+  }
+
+  audio {
+    max-width: 50%;
+    display: table;
+    margin: 0 auto;
+  }
+
 }
