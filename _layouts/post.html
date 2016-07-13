@@ -6,7 +6,7 @@ layout: default
 
 {{ content }}
 
-{% if page.categories contains 'podcast' %}
+{% if post.category contains 'podcast' %}
 	<br>
 	<audio controls>
 		<source src="{{ page.enclosure }}" type="audio/mpeg">
