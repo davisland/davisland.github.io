@@ -81,8 +81,12 @@ a {
 }
 
 @media screen and (max-width: 768px) {
+  .wrap {
+    top: 5%;
+  }
+
   .home {
-    position: static;
+    position: relative;
     margin: auto;
     max-width: 21rem;
   }
@@ -93,11 +97,4 @@ a {
     padding: 20px 0 0 0;
     max-width: 29rem;
   }
-
-  audio {
-    max-width: 50%;
-    display: table;
-    margin: 0 auto;
-  }
-
 }

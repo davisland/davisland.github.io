@@ -81,6 +81,9 @@ a {
 }
 
 @media screen and (max-width: 768px) {
+  .wrap {
+    top: 5%;
+  }
 
   .home {
     position: relative;
