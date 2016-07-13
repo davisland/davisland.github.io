@@ -3,9 +3,6 @@ layout: default
 title: samples
 permalink: /samples/
 ---
-<p>Hi! My name is Davis Land</p>
-<p>Here are some things I&#39;ve made</p>
-
 <div align="center">
     <p><b>Audio:</b></p>
     <p>Write Right, TAMU Writing Center - Don&#39;t Fear the Blank Page</p>
