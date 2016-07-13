@@ -67,6 +67,10 @@ h2 {
   margin: 0 auto;
 }
 
+.a-mod {
+  text-decoration: none;
+}
+
 .float-left { float: left; }
 .float-right { float: right; }
 
