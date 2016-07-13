@@ -67,10 +67,6 @@ h2 {
   margin: 0 auto;
 }
 
-.a-mod {
-  text-decoration: none;
-}
-
 .float-left { float: left; }
 .float-right { float: right; }
 
@@ -85,6 +81,12 @@ a {
 }
 
 @media screen and (max-width: 768px) {
+  .wrap {
+    position: static;
+    margin: auto;
+    max-width: 21rem;
+  }
+
   .home {
     position: static;
     margin: auto;
@@ -97,11 +99,4 @@ a {
     padding: 20px 0 0 0;
     max-width: 29rem;
   }
-
-  audio {
-    max-width: 50%;
-    display: table;
-    margin: 0 auto;
-  }
-
 }
