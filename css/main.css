@@ -82,6 +82,7 @@ a {
 
 @media screen and (max-width: 768px) {
   .wrap {
+    top: 5%;
     position: static;
     margin: auto;
     max-width: 21rem;
