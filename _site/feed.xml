@@ -18,6 +18,16 @@
     <link>http://davisland.info</link>
     
         <item>
+          <title>Radio resources</title>
+          <itunes:author></itunes:author>
+          <itunes:summary>A curated list of stuff that helped me learn to make radio. </itunes:summary>
+          <itunes:image href="http://davisland.info/podcast_art.png"/>
+          <enclosure url = "" length="" type=""></enclosure>
+          <pubDate>Tue, 12 Jul</pubDate>
+          <itunes:duration></itunes:duration>
+        </item>
+    
+        <item>
           <title>Charles</title>
           <itunes:author></itunes:author>
           <itunes:summary>Talking with Charles, an activist, writer, and musician </itunes:summary>
