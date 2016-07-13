@@ -2,7 +2,7 @@
 layout: post
 title:  Radio resources 
 date:   2016-07-12
-category: podcast
+category: list
 summary: A curated list of stuff that helped me learn to make radio.
 ---
 

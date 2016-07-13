@@ -6,13 +6,14 @@ layout: default
 
 {{ content }}
 
-{% if post.category contains 'podcast' %}
+{% if page.category contains 'podcast' %}
 	<br>
 	<audio controls>
 		<source src="{{ page.enclosure }}" type="audio/mpeg">
 	</audio> <br>
 {% endif %}
 
+<br><br>
 <div>
 	{% if page.previous.url %}
 	    <a class="float-left" href="{{page.previous.url}}">&laquo; previous</a>
