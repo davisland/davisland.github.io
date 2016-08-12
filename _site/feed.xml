@@ -16,17 +16,6 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:copyright text="Davis Land" />
     <link>http://davisland.info</link>
-    
-        <item>
-          <title>Charles</title>
-          <itunes:author></itunes:author>
-          <itunes:summary>Talking with Charles, an activist, writer, and musician </itunes:summary>
-          <itunes:image href="http://davisland.info/podcast_art.png"/>
-          <enclosure url = "http://archive.org/download/CharlesMixdown/Charles_mixdown.mp3" length="10797427" type="audio/mpeg"></enclosure>
-          <pubDate>Sat, 26 Mar</pubDate>
-          <itunes:duration></itunes:duration>
-        </item>
-    
   </channel>
 </rss>
 
