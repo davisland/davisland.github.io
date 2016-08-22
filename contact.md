@@ -5,9 +5,9 @@ permalink: /contact/
 ---
 Twitter :: [@davis_land](https://twitter.com/davis_land)
 
-Email :: [contact@davisland.info](mailto:contact@davisland.info)
+Email :: contact [at] davisland.info
 
-Phone :: (903) 920-9269<br><br><br>
+Phone :: nine-zero-three nine-two-zero nine-two-six-nine<br><br><br>
 
 Here&#39;s an email list that I update very infrequently:
 
