@@ -5,19 +5,19 @@ permalink: /samples/
 ---
 <div align="center">
     <p><b>Audio:</b></p>
-    <p>KCRW's 4th Annual Radio Race - Memory</p>
-    <p>Reproting, writing, editing</p>
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277186998&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-    <br>
-    <br>
-    <p>Write Right, TAMU Writing Center - Don&#39;t Fear the Blank Page</p>
+    <p>Write Right, TAMU Writing Center - Get Off My Lawn</p>
     <p>Reporting, writing, editing.</p>
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/262679102%3Fsecret_token%3Ds-D8zQG&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/285151241&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     <br>
     <br>
     <p>Afternoon Newscast, WBUR - Peace Action</p>
     <p>Reporting, writing, editing.</p>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278652030&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    <br>
+    <br>
+    <p>KCRW's 4th Annual Radio Race - Memory</p>
+    <p>Reporting, writing, editing</p>
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277186998&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     <br>
     <br>
     <p>All Things Considered, Morning Edition, WCAI - HAM Radio</p>

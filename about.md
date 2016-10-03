@@ -9,11 +9,11 @@ I&#39;m a student at Texas A&amp;M University, studying Telecommunications and M
 
 I like to make stuff.
 
-Currently I&#39;m an intern at [WBUR Boston](wbur.org) in the newsroom. I help write and interview for the hourly newscast and often join producers out in the field. 
+I work for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produce a podcast called [Write Right](http://soundcloud.com/WriteRight) which will be launching soon. I also work for the [Texas A&amp;M Foundation](http://www.txamfoundation.com/s/1436/gid3give/2014/index.aspx?sid=1436&gid=3&pgid=4203) where I help produce their podcast.
 
-I was formerly an intern at [Transom.org](http://transom.org) in Woods Hole, MA. At Transom I got my first taste of producing content for the public media world—over the summer I had a total of three stories air on WCAI, the local NPR affiliate. Thinking back, it was a trememdous oppurtunity and I definitely didn&#39;t realize how awesome it was to be with those folks. Transom will always hold a special place in my heart.  
+I was formerly an intern at [Transom.org](http://transom.org) in Woods Hole, MA. There I got my first taste of producing content for the public media world, from pitching to reporting, editing, and all the inbetween. Over the summer I had a total of three stories air on WCAI, the local NPR affiliate.
 
-I work for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produce a podcast called [Write Right](http://writerightpodcast.github.io) which will be launching soon. I also work for the [Texas A&amp;M Foundation](http://www.txamfoundation.com/s/1436/gid3give/2014/index.aspx?sid=1436&gid=3&pgid=4203) where I help produce their podcast.
+Over the summer of 2016 I was an intern at [WBUR Boston](wbur.org) in the newsroom. I helped write and report for the hourly newscast and often joined producers out in the field. There I learned how to write on a deadline, and work in a fast paced and sometimes-sressful environment. My experience at WBUR totally transformed my writing, as well as the editorial process.  
 
 I&#39;ve also served as the Programming Director for [KANM Student Radio](http://kanm.org) for a good while now, while djing and volunteering at [KEOS Community Radio](http://keos.org). I also produce a podcast for [Write About Now Poetry](http://writeaboutnowpoetry.com), which is in its third season of production.
 
