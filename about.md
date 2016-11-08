@@ -21,7 +21,7 @@ I&#39;ve also served as the Programming Director for [KANM Student Radio](http:/
 
 Currently I serve as the Editor-In-Chief for two publications: [The Eckleburg Project](http://theeckleburgproject.com), which is A&amp;M&#39;s student-run literary journal, and [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend.
 
-I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list: audio and video editing, web design and computer programming, how to do writing good, emailing (it&#39;s a skill, trust me), being funny sometimes, Twitter (that&#39;s also a skill I think), book binding, the entire Adobe Creative Cloud suite, cooking, having a critical eye, screen-printing, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br><br><br>
+I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list: audio and video editing, web design and computer programming, how to do writing good, emailing (it&#39;s a skill, trust me), being funny sometimes, filing public information requests, Twitter (that&#39;s also a skill I think), book binding, the entire Adobe Creative Cloud suite, cooking, having a critical eye, screen-printing, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br><br><br>
 
 [Here is a link to my resume.](http://davisland.info/Davis_Land_Resume_2016.pdf)
 
