@@ -17,7 +17,7 @@ Over the summer of 2016 I was an intern at [WBUR Boston](wbur.org) in the newsro
 
 Additionally, I&#39;ve done a bit of freelance reporting and production assistance. I have by-lines with [Texas Standard](http://texasstandard.org), [WCAI](http://capeandislands.org) and [The Battalion](http://thebatt.com). 
 
-I&#39;ve also served as the Programming Director for [KANM Student Radio](http://kanm.org) for a good while now, and djing/volunteering at [KEOS Community Radio](http://keos.org). I also produce a podcast for [Write About Now Poetry](http://writeaboutnowpoetry.com), which is in its third season of production.
+I&#39;ve also served as the Programming Director for [KANM Student Radio](http://kanm.org) for a good while now, where I build out and direct student DJs to produce and air music, talk, and fictional content. Before I was Programming Director at KANM I helped with preproduce content and interviews for the station. These segments are, unfortunately, lost to the sands of time. I also produce a podcast for [Write About Now Poetry](http://writeaboutnowpoetry.com) and helped build their YouTube channel. I the past I was a  dj/volunteer at [KEOS Community Radio](http://keos.org). 
 
 Currently I serve as the Editor-In-Chief for two publications: [The Eckleburg Project](http://theeckleburgproject.com), which is A&amp;M&#39;s student-run literary journal, and [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. I've been inovolved with other arts efforts, often ephemeral yet still substantial projects. Ask me about it! 
 
