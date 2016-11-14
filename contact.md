@@ -6,7 +6,7 @@ permalink: /contact/
 
 Twitter :: [@davis_land](https://twitter.com/davis_land)
 
-Email :: contact [at] davisland.info
+Email :: dland95 [at] gmail [dot] com
 
 Phone :: nine-zero-three nine-two-zero nine-two-six-nine<br><br><br>
 
