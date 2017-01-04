@@ -1,8 +1,9 @@
 ---
-layout: page
 title: about
+layout: post
 permalink: /about/
 ---
+
 Hi! My name is Davis Land.
 
 I&#39;m a student at Texas A&amp;M University, studying Telecommunications and Media Studies.
@@ -15,13 +16,13 @@ I was formerly an intern at [Transom.org](http://transom.org) in Woods Hole, MA.
 
 Over the summer of 2016 I was an intern at [WBUR Boston](wbur.org) in the newsroom. I helped write and report for the hourly newscast and often joined producers out in the field. There I learned how to write on a deadline, and work in a fast paced and sometimes-stressful environment.  
 
-Additionally, I&#39;ve done a bit of freelance reporting and production assistance. I have by-lines with [Texas Standard](http://texasstandard.org), [WCAI](http://capeandislands.org) and [The Battalion](http://thebatt.com). 
+Additionally, I&#39;ve done a bit of freelance reporting and production assistance. I have by-lines with [Texas Standard](http://texasstandard.org) and [The Battalion](http://thebatt.com). I've also done some work for [Write About Now](http://www.writeaboutnowpoetry.com/), as a podcast producer and video production assistant.
 
-I&#39;ve also served as the Programming Director for [KANM Student Radio](http://kanm.org) for a good while now, where I build out and direct student DJs to produce and air music, talk, and fictional content. Before I was Programming Director at KANM I helped with preproduce content and interviews for the station. These segments are, unfortunately, lost to the sands of time. I also produce a podcast for [Write About Now Poetry](http://writeaboutnowpoetry.com) and helped build their YouTube channel. I the past I was a  dj/volunteer at [KEOS Community Radio](http://keos.org). 
+I served as Programming Director for [KANM Student Radio](http://kanm.org) for most of my college career. As Programming Director I built out the show schedule and directed student DJs to produce and air music, talk, and fictional content, all while hosting my own weekly show. Before I was Programming Director at KANM I helped with produce content and interviews for the station. These segments are, unfortunately, lost to the sands of time. In the past I was a volunteer DJ and board operator at [KEOS Community Radio](http://keos.org).
 
-Currently I serve as the Editor-In-Chief for two publications: [The Eckleburg Project](http://theeckleburgproject.com), which is A&amp;M&#39;s student-run literary journal, and [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. I've been inovolved with other arts efforts, often ephemeral yet still substantial projects. Ask me about it! 
+Currently I serve as the Editor-In-Chief for [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. I also served as Editor-In-Chief of [The Eckleburg Project](http://theeckleburgproject.com), Texas A&amp;M’s student literary and arts journal. I’ve been involved with other ephemeral yet substantial arts efforts. Ask me about them!
 
-I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list: audio and video editing, web design and computer programming, how to do writing good, emailing (it&#39;s a skill, trust me), being funny sometimes, filing public information requests, Twitter (that&#39;s also a skill I think), book binding, the entire Adobe Creative Cloud suite, cooking, having a critical eye, screen-printing, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br>
+I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list:  ProTools, the Adobe Creative Suite (namely Audition, Premiere, Illustrator, and Photoshop), how to do writing good, Microsoft Office, Slack, various CMS platforms, writing, filing public records requests, emailing (it’s a skill, trust me), being funny sometimes, Twitter (that’s also a skill I think), book binding, cooking, having a critical eye, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br>
 
 [Here is a link to my resume.](http://davisland.info/Davis_Land_Resume_2016.pdf)
 

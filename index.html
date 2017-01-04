@@ -1,5 +1,9 @@
 ---
 layout: home
-title: home
 ---
-<b>davis land</b>
+<h1 class="headline">{{site.title}}</h1>
+<h5>Radio journalist &amp; Swiss army knife</h4>
+<br>
+{% for post in site.posts %}
+<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
+{% endfor %}

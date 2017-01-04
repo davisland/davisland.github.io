@@ -1,66 +1,27 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html>
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:site_name" content="davis land"/>
-  <meta property="og:url" content="http://davisland.info{{ page.url }}" />
-  <meta property="og:description" content="Hi! I'm Davis." />
-  <meta property="og:type" content="article" />
-  <meta property="og:image" content="http://davisland.info/davisicon.png" />
-  <head>
-      <title>davis land</title>
-      <link rel="icon" 
-            type="image/png" 
-            href="davisicon.png">
-      <link href="../css/main.css" rel="stylesheet">
-      <script src="https://use.typekit.net/hvi4tgs.js"></script>
-      <script>try{Typekit.load({ async: true });}catch(e){}</script>
-  </head>
-  <body>
-<div class="wrap">
-      <div class="title">
-        <b>davis land</b>
-      </div>
-      <div class = "nav">
-        <a href="/about/">about</a> / <a href="/samples/">samples</a> / <a href="/contact/">contact</a>
-      </div>
-    </div>
-      <br><br>
-    <div class="content">
-      <p>Texas Standard, Texas Public Radio - Texas A&amp;M Anti-Racism Classes</p>
-      <p>Reporting, writing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291123736&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>Write Right, TAMU Writing Center - In Defense of the Listicle</p>
-      <p>Reporting, writing, editing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287358633&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>Afternoon Newscast, WBUR - Peace Action</p>
-      <p>Reporting, writing, editing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278652030&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>KCRW's 4th Annual Radio Race - Memory</p>
-      <p>Reporting, writing, editing</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277186998&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>All Things Considered, Morning Edition, WCAI - HAM Radio</p>
-      <p>Reporting, writing, editing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213690758&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>Sonic ID Series, WCAI - Bees</p>
-      <p>Reporting, writing, editing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231615667&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-      <p>Local Food Report, WCAI - More Than Honey</p>
-      <p>Reporting, writing, editing.</p>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242612429&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      <br>
-      <br>
-    </div>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:900|Work+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+</head>
+<body style="background-color: rgb(255, 255, 255)">
+ <script src="{{site.baseurl}}/js/theme.min.js"></script>
+
+  {{ content }}
+
+<footer>
+  <div class="links">
+      <a href="{{site.baseurl}}/about/">about</a>
+      <a href="{{site.baseurl}}/connect/">connect</a>
+      <a href="{{site.baseurl}}/samples/">samples</a>
+  </div>
+</footer>
+{% include analytics.html %}
+</body>
 </html>

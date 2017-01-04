@@ -1,17 +1,6 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<h2>{{ page.date | date: "%b %-d, %Y" }}</h2>
-
-{{ content }}
-
-<br><br>
-<div>
-	{% if page.previous.url %}
-	    <a class="float-left" href="{{page.previous.url}}">&laquo; previous</a>
-	{% endif %}
-	{% if page.next.url %}
-	    <a class="float-right" href="{{page.next.url}}">next &raquo;</a>
-	{% endif %}
-</div>
+<h1 class="post-headline">{{page.title}}</h1>
+<div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span></div>
+{{content}}
