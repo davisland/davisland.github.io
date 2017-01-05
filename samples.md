@@ -3,7 +3,7 @@ title: samples
 layout: post
 permalink: /samples/
 ---
-Texas Standard, Texas Public Radio - Texas A&amp;M Anti-Racism Classes
+Texas Standard - Texas A&amp;M Anti-Racism Classes
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291123736&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Write Right, TAMU Writing Center - In Defense of the Listicle
