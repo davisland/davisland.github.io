@@ -1,5 +1,5 @@
 ---
-title: connect
+title: Connect
 layout: post
 permalink: /connect/
 ---

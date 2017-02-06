@@ -2,11 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond&subset=latin-ext');
+
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,700,900');
 @charset "utf-8";
 
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   20px;
+@import url('https://fonts.googleapis.com/css?family=Martel:300,400,700,900&subset=latin-ext');
+
+$base-font-family: 'Martel', 'EB Garamond', sans-serif;
+$base-font-size:   15px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -40,8 +44,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

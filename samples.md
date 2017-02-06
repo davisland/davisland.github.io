@@ -1,5 +1,5 @@
 ---
-title: samples
+title: Samples
 layout: post
 permalink: /samples/
 ---

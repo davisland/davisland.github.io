@@ -5,5 +5,8 @@ layout: home
 <h5>Radio journalist &amp; Swiss Army knife</h5>
 <br>
 {% for post in site.posts %}
-<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
+	{% if post.category == "drafts" %}
+    {% else if %}
+		<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
+	{% endif %}
 {% endfor %}
