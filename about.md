@@ -18,6 +18,8 @@ Over the summer of 2016 I was an intern at [WBUR Boston](wbur.org) in the newsro
 
 Additionally, I&#39;ve done a bit of freelance reporting and production assistance. I have by-lines with [Texas Standard](http://texasstandard.org) and [The Battalion](http://thebatt.com). I've also done some work for [Write About Now](http://www.writeaboutnowpoetry.com/), as a podcast producer and video production assistant.
 
+In 2017, my friend Brie Ripley and I started <i><a href="https://soundcloud.com/dearpodcast">Dear</a></i>, a podcast wherein Brie and I write audio letters to one another. You should check it out.
+
 I served as Programming Director for [KANM Student Radio](http://kanm.org) for most of my college career. As Programming Director I built out the show schedule and directed student DJs to produce and air music, talk, and fictional content, all while hosting my own weekly show. Before I was Programming Director at KANM I helped with produce content and interviews for the station. These segments are, unfortunately, lost to the sands of time. In the past I was a volunteer DJ and board operator at [KEOS Community Radio](http://keos.org).
 
 Currently I serve as the Editor-In-Chief for [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. I also served as Editor-In-Chief of [The Eckleburg Project](http://theeckleburgproject.com), Texas A&amp;M’s student literary and arts journal. I’ve been involved with other ephemeral yet substantial arts efforts. Ask me about them!
