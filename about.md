@@ -10,7 +10,7 @@ I&#39;m a student at Texas A&amp;M University, studying Telecommunications and M
 
 I like to make stuff.
 
-I work for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produce a podcast called [Write Right](http://soundcloud.com/WriteRight). I talk to experts in writing and communication about some of the questions, ideas, and interests that students have. I also work for the [Texas A&amp;M Foundation](http://www.txamfoundation.com/s/1436/gid3give/2014/index.aspx?sid=1436&gid=3&pgid=4203) where I help produce their podcast about different programs at A&amp;M.
+I work for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produce a podcast called [Write Right](http://soundcloud.com/WriteRight). I talk to experts in writing and communication about some of the questions, ideas, and interests that students have. I also work for the [Texas A&amp;M Foundation](http://www.txamfoundation.com/s/1436/gid3give/2014/index.aspx?sid=1436&gid=3&pgid=4203) where I help produce their podcast about different programs at A&amp;M. I help write the script, then edit, score, and mix each episode.
 
 I was formerly an intern at [Transom.org](http://transom.org) in Woods Hole, MA. There I got my first taste of producing content for the public media world, from pitching to reporting, editing, and all the in-between. Over the summer I had a total of three stories air on WCAI, the local NPR affiliate.
 
