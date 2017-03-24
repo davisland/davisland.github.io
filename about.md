@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-layout: post
+layout: main
 permalink: /about/
 ---
 
