@@ -116,7 +116,6 @@ blockquote {
 .headline {
     font-size: 4em;
     letter-spacing: 10px;
-    line-height:1.3em;
         @include media-query($on-palm) {
             font-size: 2em;
     }
