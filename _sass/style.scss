@@ -114,6 +114,7 @@ blockquote {
     letter-spacing: 10px;
         @include media-query($on-palm) {
             font-size: 2em;
+            letter-spacing: 5px;
     }
 }
 
