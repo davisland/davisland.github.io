@@ -120,6 +120,7 @@ blockquote {
 
 .post-headline {
     font-size: 4em;
+    padding-top: 10px;
         @include media-query($on-palm) {
             font-size: 1.5em;
     }
