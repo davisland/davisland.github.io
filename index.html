@@ -1,12 +1,14 @@
 ---
 layout: home
 ---
-<h1 class="headline">{{site.title}}</h1>
-<h5>Radio journalist &amp; Swiss Army knife</h5>
-<br>
+<center><h1 class="headline">DAVIS LAND</h1>
+<h5>radio journalist &amp; swiss army knife</h5>
+<br><br>
 {% for post in site.posts %}
 	{% if post.category == "drafts" %}
     {% else if %}
 		<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
 	{% endif %}
 {% endfor %}
+<br>
+</center>

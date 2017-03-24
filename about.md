@@ -1,5 +1,5 @@
 ---
-title: About
+title: ABOUT
 layout: post
 permalink: /about/
 ---
@@ -22,7 +22,7 @@ In 2017, my friend Brie Ripley and I started <i><a href="https://soundcloud.com/
 
 I served as Programming Director for [KANM Student Radio](http://kanm.org) for most of my college career. As Programming Director I built out the show schedule and directed student DJs to produce and air music, talk, and fictional content, all while hosting my own weekly show. Before I was Programming Director at KANM I helped with produce content and interviews for the station. These segments are, unfortunately, lost to the sands of time. In the past I was a volunteer DJ and board operator at [KEOS Community Radio](http://keos.org).
 
-Currently I serve as the Editor-In-Chief for [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. I also served as Editor-In-Chief of [The Eckleburg Project](http://theeckleburgproject.com), Texas A&amp;M’s student literary and arts journal. I’ve been involved with other ephemeral yet substantial arts efforts. Ask me about them!
+Currently I serve as the Editor-In-Chief for [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. From August of 2015 through 2016, I served as Editor-In-Chief of [The Eckleburg Project](http://theeckleburgproject.com), Texas A&amp;M’s student literary and arts journal. I’ve been involved with other ephemeral yet substantial arts efforts. Ask me about them!
 
 I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list:  ProTools, the Adobe Creative Suite (namely Audition, Premiere, Illustrator, and Photoshop), how to do writing good, Microsoft Office, Slack, various CMS platforms, writing, filing public records requests, emailing (it’s a skill, trust me), being funny sometimes, Twitter (that’s also a skill I think), book binding, cooking, having a critical eye, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br>
 

@@ -1,6 +1,6 @@
 ---
-title: Samples
-layout: post
+title: SAMPLES
+layout: default
 permalink: /samples/
 ---
 Texas Standard - Texas A&amp;M Anti-Racism Classes
