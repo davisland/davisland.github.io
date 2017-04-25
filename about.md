@@ -24,9 +24,9 @@ I served as Programming Director for [KANM Student Radio](http://kanm.org) for
 
 Currently I serve as the Editor-In-Chief for [Alien Mouth](http://alienmouth.com), an independent journal and press I started with a friend. From August of 2015 through 2016, I served as Editor-In-Chief of [The Eckleburg Project](http://theeckleburgproject.com), Texas A&amp;M’s student literary and arts journal. I’ve been involved with other ephemeral yet substantial arts efforts. Ask me about them!
 
-I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list:  ProTools, the Adobe Creative Suite (namely Audition, Premiere, Illustrator, and Photoshop), how to do writing good, Microsoft Office, Slack, various CMS platforms, writing, filing public records requests, emailing (it’s a skill, trust me), being funny sometimes, Twitter (that’s also a skill I think), book binding, cooking, having a critical eye, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br>
+I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list:  ProTools, the Adobe Creative Suite (namely Audition, Premiere, Illustrator, and Photoshop), how to do writing good, Microsoft Office, Slack, various CMS platforms, writing, filing public records requests, emailing (it’s a skill, trust me), being funny sometimes, Twitter (that’s also a skill I think), book binding, cooking, having a critical eye, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br><br>
 
-[Here is a link to my resume.](http://davisland.info/Davis_Land_Resume_2016.pdf)
+[Here is a link to my resume.](http://davisland.info/Davis_Land_Resume_2017.pdf)
 
 [Here is my profile on AIR.](http://airmedia.org/author/airusert301434670219)
 
