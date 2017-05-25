@@ -5,7 +5,7 @@ permalink: /connect/
 ---
 
 Twitter :: [@davis_land](https://twitter.com/davis_land)<br>
-Email :: davisland [at] protonmail [dot] com<br>
+Email :: davisland [at] gmail [dot] com<br>
 Phone :: nine-zero-three nine-two-zero nine-two-six-nine<br><br>
 
 Here&#39;s an email list that I update very infrequently:
