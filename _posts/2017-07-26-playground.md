@@ -2,7 +2,7 @@
 title: "first grade playground story"
 layout: stripped
 category: blog
-date: 2017-07-26 01:26:15
+date: 2017-07-26 01:23:15
 ---
 When we talk about it, we generally say things like, oh, it was all a blur. Things happen fast, but certainly faster in memory. I think the kid’s name was Clay. I’m not sure I saw him again after that Thursday. He was out Friday too. Maybe he finished out the year. The anti-climactic part is that I just don’t know.
 
