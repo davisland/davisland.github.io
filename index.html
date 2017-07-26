@@ -6,6 +6,7 @@ layout: home
 <br><br>
 {% for post in site.posts %}
 	{% if post.category == "drafts" %}
+    {% else if post.category == "notes" %}
     {% else if %}
 		<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
 	{% endif %}

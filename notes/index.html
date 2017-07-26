@@ -1,0 +1,23 @@
+---
+layout: stripped
+---
+<style type="text/css">
+	div {
+   		width: 600px;
+	}
+	h1, h2, h3, h4, h5, h6 {
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+</style>
+<div>
+	{% for post in site.posts %}
+	    {% if post.category == "blog" %}
+			<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+			<h6>{{ post.date }}</h6>
+			<p> {{ post.content }} </p>
+			<hr width="625px" />
+		{% endif %}
+	{% endfor %}
+</div>
+<br>
