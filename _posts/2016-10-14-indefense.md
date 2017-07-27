@@ -1,6 +1,7 @@
 ---
 title: "Do You, Um, Like, Hate Filler Words? - Write Right"
 layout: post
+category: sample
 permalink: /indefense/
 ---
 
