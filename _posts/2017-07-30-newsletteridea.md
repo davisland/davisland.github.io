@@ -1,4 +1,4 @@
-------
+---
 title: "ideas for newsletter"
 layout: stripped
 category: blog
