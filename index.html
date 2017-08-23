@@ -4,12 +4,8 @@ layout: home
 <center><h1 class="headline">DAVIS LAND</h1>
 <h5>radio producer &amp; swiss army knife</h5>
 <br><br>
-{% for post in site.posts %}
-	{% if post.category == "drafts" %}
-    {% else if post.category == "notes" %}
-    {% else if post.category == "sample" %}
-		<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
-	{% endif %}
+{% for post in site.categories.sample %}
+	<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3><br>
 {% endfor %}
 <br>
 </center>

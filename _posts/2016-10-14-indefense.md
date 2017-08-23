@@ -1,5 +1,5 @@
 ---
-title: "Do You, Um, Like, Hate Filler Words? - Write Right"
+title: "Do You, Um, Like, Hate Filler Words?"
 layout: post
 category: sample
 permalink: /indefense/
