@@ -10,7 +10,9 @@ I&#39;m a recent graduate of Texas A&amp;M University, studying Telecommunicatio
 
 I like to make stuff.
 
-Most recently, I worked for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produced a podcast called [Write Right](http://soundcloud.com/WriteRight). Write Right takes on big, complex topics in communication, linguistics, and education, and presents them in a compelling, digestible format through narrative storytelling. I did everything for the show including research, interviewing, writing, editing, and mixing. Several excellent administrators at the Writing Center help edit my scripts. If there is one project through which I learned the most, it's this one.
+I currently freelance for [Red River Radio](http://redriverradio.org/), covering the city of Lufkin and the wider East Texas region.
+
+Previously, I worked for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produced a podcast called [Write Right](http://soundcloud.com/WriteRight). Write Right takes on big, complex topics in communication, linguistics, and education, and presents them in a compelling, digestible format through narrative storytelling. I did everything for the show including research, interviewing, writing, editing, and mixing. Several excellent administrators at the Writing Center help edit my scripts. If there is one project through which I learned the most, it's this one.
 
 From the summer of 2016 through this past spring, I worked for the [Texas A&amp;M Foundation](http://www.txamfoundation.com/s/1436/gid3give/2014/index.aspx?sid=1436&gid=3&pgid=4203) where I helped produce a podcast about different programs at A&amp;M. I helped write the script, edit, score, and mix each episode.
 
