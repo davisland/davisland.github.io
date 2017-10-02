@@ -17,16 +17,16 @@ layout: compress
   <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 </head>
 <body style="background-color: rgb(255, 255, 255); overflow: auto">
- <script src="{{site.baseurl}}/js/theme.min.js"></script>
- <center><h1>{{ page.title }}</h1></center>
-  {{ content }}
-<footer>
-  <center><div class="links">
+  <div class="links">
       <a href="http://davisland.info">home</a>
       <a href="{{site.baseurl}}/about/">about</a>
       <a href="{{site.baseurl}}/connect/">connect</a>
       <a href="{{site.baseurl}}/samples/">samples</a>
-  </div></center>
+  </div>
+ <script src="{{site.baseurl}}/js/theme.min.js"></script>
+ <center><h1>{{ page.title }}</h1></center>
+  {{ content }}
+<footer>
 </footer>
 {% include analytics.html %}
 </body>
