@@ -10,7 +10,9 @@ I&#39;m a recent graduate of Texas A&amp;M University, studying Telecommunicatio
 
 I like to make stuff.
 
-I currently freelance for [Red River Radio](http://redriverradio.org/), covering the city of Lufkin and the wider East Texas region.
+Currently, I work as a full time freelancer at [Houston Public Media](http://houstonpublicmedia.org/articles/author/dland/) as a general assignment reporter. I cover just about everything, but take particular interest in environmental issues.
+
+I also freelance for [Red River Radio](http://redriverradio.org/), covering the city of Lufkin and the wider East Texas region.
 
 Previously, I worked for the [Texas A&amp;M University Writing Center](http://writingcenter.tamu.edu) where I produced a podcast called [Write Right](http://soundcloud.com/WriteRight). Write Right takes on big, complex topics in communication, linguistics, and education, and presents them in a compelling, digestible format through narrative storytelling. I did everything for the show including research, interviewing, writing, editing, and mixing. Several excellent administrators at the Writing Center help edit my scripts. If there is one project through which I learned the most, it's this one.
 
@@ -32,7 +34,7 @@ From August of 2015 through 2016, I served as Editor-In-Chief of [The Eckleburg 
 
 I&#39;ve gained a lot of different skills through all of that; here&#39;s an incomplete list:  ProTools, the Adobe Creative Suite (namely Audition, Premiere, Illustrator, and Photoshop), how to do writing good, Microsoft Office, Slack, various CMS platforms, writing, filing public records requests, emailing (it’s a skill, trust me), being funny sometimes, Twitter (that’s also a skill I think), book binding, cooking, having a critical eye, driving in Boston, paying off a credit card, being a leader, the Do Not Disturb feature on my phone, tying shoes, high fiving, being a direct communicator, and a few more things.<br><br>
 
-[Here is a link to my resume.](http://davisland.info/Davis_Land_Resume_2017.pdf)
+[Here is a link to my resume.](http://davisland.info/Land_Resume.pdf)
 
 [Here is my profile on AIR.](http://airmedia.org/author/airusert301434670219)
 
