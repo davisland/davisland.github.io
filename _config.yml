@@ -2,7 +2,7 @@
 
 title: Davis Land
 baseurl: # name of the repository
-email: dland95@gmail.com
+email: davislandelectronicrodeo@gmail.com
 
 
 
@@ -32,4 +32,4 @@ sass:
  style: compressed
 
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
