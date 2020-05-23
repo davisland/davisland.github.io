@@ -1,0 +1,26 @@
+{
+  "name": "davisland.github.io",
+  "version": "1.0.0",
+  "description": "a website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages-deploy": "^0.5.1",
+    "undo": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisland/davisland.github.io.git"
+  },
+  "author": "Davis Land",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisland/davisland.github.io/issues"
+  },
+  "homepage": "https://github.com/davisland/davisland.github.io"
+}
