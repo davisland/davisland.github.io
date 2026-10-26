@@ -1,8 +1,4 @@
-   ---
-   layout: default
-   title: Newsletter
-   permalink: /newsletter/
-   ---
+  Enter your email to sign up for my newsletter: <br />
    <form action="https://buttondown.com/api/emails/embed-subscribe/USERNAME" method="post" class="subscribe">
    <label for="bd-email">Email</label>
    <input type="email" name="email" id="bd-email" required>
