@@ -1,5 +1,5 @@
   Enter your email to sign up for my newsletter: <br />
-   <form action="https://buttondown.com/api/emails/embed-subscribe/USERNAME" method="post" class="subscribe">
+   <form action="https://buttondown.com/api/emails/embed-subscribe/davisland" method="post" class="subscribe">
    <label for="bd-email">Email</label>
    <input type="email" name="email" id="bd-email" required>
    <input type="hidden" name="embed" value="1">
