@@ -4,5 +4,5 @@
    <input type="email" name="email" id="bd-email" required>
    <input type="hidden" name="embed" value="1">
    <button type="submit">Subscribe</button>
-   </form>
+   </form><br />
   Note! You will recieve an email from Buttondown asking you to confirm your subscription. Make sure you do this or you will not recieve the newsletter!
